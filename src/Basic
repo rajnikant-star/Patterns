@@ -1,0 +1,72 @@
+* Total 8 types of Primitive datatypes:
+1.byte - 1 byte
+2.short - 2 byte
+3.char - 2 byte
+4.boolean - 1 byte
+5.int - 4 byte
+6.long - 8 byte
+7.float - 4 byte
+8.double - 8 byte
+* Input in java:
+next() - stores only word before space or nextline
+nextLine() - stores the whole sentence.
+nextFloat() - for decimal numbers
+nextint() -
+nextByte()
+nextDouble()
+nextBoolean()
+nextShort()
+nextLong()
+
+
+* Type conversion:(Read it)
+byte->short->int->float->long->double
+
+
+* Type casting:
+float a = 25.8F;
+int b = a; //Error
+int b = (int)a; //allowed
+
+a = 97
+A = 65
+
+* Type promotion:
+//only for operation
+//largest possible data
+byte,short,char-int
+long,float,double-largest possible
+
+*Types of Operators:
+Arithmetic Operator:
+1.Binary-(+,-,*,/,%)
+2.Unary-(++,--)
+++ a=a+1   ++a value change then use; a++ value use then change.
+-- a=a-1   --a ; a-- same as addition
+Relational Operator:
+== Equal to
+!= not equal to
+> Greater than
+< smaller than
+>= greater than equal to
+<= smaller than equal to
+Logical Operator:
+&& -both must be true
+|| -either can be true
+! - opposite(true-false;false-true)
+Bitwise Operator(Bit manipulation)
+Assignment operators:
+=  a+=5;a-=5
++= a+=a
+_=
+*=
+/=
+Ternary Operators
+
+*Conditional Statements:
+if, else
+else if
+ternary operator:
+3 operands-
+
+switch

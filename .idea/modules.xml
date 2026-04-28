@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/BufferReader/BufferReader.iml" filepath="$PROJECT_DIR$/Array/BufferReader/BufferReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Numbers/Numbers.iml" filepath="$PROJECT_DIR$/Numbers/Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns.iml" filepath="$PROJECT_DIR$/Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,31 @@
+import java.util.Arrays;
+import java.util.Scanner;
+
+public class Missing {
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+        int x = sc.nextInt();
+        int[] arr = new int[x];
+        for(int i=0;i<x;i++){
+            arr[i] = sc.nextInt();
+        }
+        Arrays.sort(arr);
+        boolean missing = false;
+        for(int i=arr[0];i<=arr[x-1];i++){
+            boolean found = false;
+            for(int j=0;j<x;j++){
+                if(i == arr[j]){
+                    found = true;
+                    break;
+                }
+            }
+            if(!found){
+                System.out.println(i);
+                missing = true;
+            }
+        }
+        if(!missing) {
+            System.out.print("None");
+        }
+    }
+}
