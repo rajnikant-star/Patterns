@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/BufferReader/BufferReader.iml" filepath="$PROJECT_DIR$/Array/BufferReader/BufferReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module 2/Module 2.iml" filepath="$PROJECT_DIR$/Module 2/Module 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Numbers/Numbers.iml" filepath="$PROJECT_DIR$/Numbers/Numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Patterns.iml" filepath="$PROJECT_DIR$/Patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
