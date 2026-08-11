@@ -5,5 +5,6 @@ public class String_length {
         Scanner sc = new Scanner(System.in);
         String s = sc.nextLine();
         System.out.println(s.length());
+        System.out.println("Hello");
     }
 }
