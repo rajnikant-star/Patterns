@@ -8,10 +8,7 @@ public class countconsonant {
 
         for(int i = 0; i < s.length(); i++){
             char ch = s.charAt(i);
-
-            // Step 1: Check if it's a letter
             if(Character.isLetter(ch)) {
-                // Step 2: Check if it's NOT a vowel
                 if("aeiouAEIOU".indexOf(ch) == -1) {
                     count++;
                 }
